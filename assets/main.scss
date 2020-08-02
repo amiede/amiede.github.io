@@ -6,10 +6,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,500;1,400;1,500&display=swap');
 body {
     font-family: 'Vollkorn', serif;
+    line-height: 1.2;
 }
 
 h1 { 
     text-transform: uppercase; 
-    letter-spacing: 0.25em;
-    line-height: 1.2;
+    letter-spacing: 0.15em;
+}
+
+h2 { 
+    text-transform: lowercase; 
+    letter-spacing: 0.15em;
+    font-variant: small-caps;
+}
+
+h3 {
+    font-style: italic;
 }
