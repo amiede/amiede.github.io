@@ -7,17 +7,12 @@
 body {
     font-family: 'Vollkorn', serif;
     line-height: 1.2;
+    font-kerning: normal;
 }
 
-h1 { 
+h1, h2 { 
     text-transform: uppercase; 
     letter-spacing: 0.15em;
-}
-
-h2 { 
-    text-transform: lowercase; 
-    letter-spacing: 0.15em;
-    font-variant: small-caps;
 }
 
 h3 {
