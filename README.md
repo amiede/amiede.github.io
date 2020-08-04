@@ -40,4 +40,4 @@ Society does not just lie to you. It programs you to beat yourself up when you t
 
 Truth-seeking is a hard business. You essentially have to understand, with deep conviction, things that you’ve been programmed to misunderstand.
 
-[^1]: https://nav.al/consensus
+[^1]: Source: https://nav.al/consensus
