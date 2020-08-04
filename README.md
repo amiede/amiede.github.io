@@ -1,7 +1,7 @@
 # About
 
 
-I am a professor for computer science and business information systems at the System Technology Lab (STL) at Saarland University of Applied Sciences (htw saar – Hochschule für Technik und Wirtschaft des Saarlandes).
+I am a professor for computer science and business information systems at the <em>System Technology Lab</em> (STL) at Saarland University of Applied Sciences (htw saar – Hochschule für Technik und Wirtschaft des Saarlandes).
 
 My Erdős number is: 3
 
