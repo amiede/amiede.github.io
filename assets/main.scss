@@ -17,4 +17,11 @@ h1, h2 {
 
 h3 {
     font-style: italic;
+    font-size: 100%;
+}
+
+em { 
+    text-transform: lowercase; 
+    letter-spacing: 0.15em;
+    font-variant: small-caps;
 }
