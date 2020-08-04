@@ -12,6 +12,8 @@ Zainab AlMeraj, Brian Wyvill, Tobias Isenberg, Amy Gooch, and Richard K. Guy: Au
 3. Tobias Isenberg co-authored with André Miede: 
 Tobias Isenberg, André Miede, and Sheelagh Carpendale: A Buffer Framework for Supporting Responsive Interaction in Information Visualization Interfaces. Proceedings of the Fourth International Conference on Creating, Connecting and Collaborating through Computing (C5 2006), pages 262–269. IEEE Computer Society.
 
+\\[ H(p,q) = -\int_X p(x)\, \log q(x)\, d\mu(x)\\]
+
 ---
 
 # Groups Search for Consensus, Individuals Search for Truth [^1]
