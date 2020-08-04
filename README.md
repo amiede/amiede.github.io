@@ -13,10 +13,8 @@ Zainab AlMeraj, Brian Wyvill, Tobias Isenberg, Amy Gooch, and Richard K. Guy: Au
 Tobias Isenberg, André Miede, and Sheelagh Carpendale: A Buffer Framework for Supporting Responsive Interaction in Information Visualization Interfaces. Proceedings of the Fourth International Conference on Creating, Connecting and Collaborating through Computing (C5 2006), pages 262–269. IEEE Computer Society.
 
 ---
-https://nav.al/consensus
----
 
-# Groups Search for Consensus, Individuals Search for Truth
+# Groups Search for Consensus, Individuals Search for Truth [^1]
 ## Naval Ravikant
 ### What society wants for you isn't what’s good for you
 
@@ -41,3 +39,5 @@ School does a lot of things, but education is just a tiny piece of it. Homeschoo
 Society does not just lie to you. It programs you to beat yourself up when you transgress one of its truths. Guilt is society programming you so effectively that you become your own warden. Guilt is society’s voice speaking in your head. 
 
 Truth-seeking is a hard business. You essentially have to understand, with deep conviction, things that you’ve been programmed to misunderstand.
+
+[^1]: https://nav.al/consensus
