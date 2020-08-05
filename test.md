@@ -1,5 +1,7 @@
-https://nav.al/consensus
----
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to Get Rich (without getting lucky):</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002103360646823936?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/S3REdLZ8Xis?ecver=1&amp;cc_load_policy=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" frameborder="0"><div><a  id="Sk2ueIxo" href="http://www.burnttoastcottage.com/directions.html">http://www.burnttoastcottage.com/directions.html</a></div><div><a  id="Sk2ueIxo" href="https://www.rockpamperscissors.co.uk/a-new-one-on-me/">Emma hybrid</a></div><script type="text/javascript">function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
 
 # Groups Search for Consensus, Individuals Search for Truth
 ## Naval Ravikant
