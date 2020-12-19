@@ -1,4 +1,4 @@
-# Note
+## Note
 
 My private website is available here: <https://www.miede.de/>
 
